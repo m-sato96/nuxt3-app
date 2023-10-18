@@ -16,7 +16,7 @@ footer {
   background: orange;
   text-align: center;
 }
-html {
+/* html {
   font-family: "Permanent Marker", cursive;
-}
+} */
 </style>
