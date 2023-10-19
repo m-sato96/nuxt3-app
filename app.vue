@@ -51,8 +51,8 @@ useHead({
       <ul>
         <li v-for="user in users" :key="user.id">{{ user.id }} : {{ user.name }}</li>
       </ul>
-      <img src="~/assets/cat.jpg" alt="" />
-      <img src="/cat.jpg" alt="" />
+      <!-- <img src="~/assets/cat.jpg" alt="" />
+      <img src="/cat.jpg" alt="" /> -->
     </NuxtLayout>
   </div>
 </template>
